@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartTrafficTransmitter</string>
+    <string name="title_activity_settings">Configurações</string>
+</resources>
